@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Kelve Alves, tenho 19 anos sou do natual do Piauí mas moro em Brasília. Concluí o ensino médio no CEM404 em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Estou desenvolvendo um projeto pela minha instituição com o proposito de construir uma WebApi para um Hortifruti. Nesse github posto meus projetos em meu repositorio de "Portifolio" e também alguns repositorios de cursos e aprendizados.
+Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Brasília. Concluí o ensino médio no CEM404 em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Estou desenvolvendo um projeto pela minha instituição com o proposito de construir uma WebApi para um Hortifruti. Nesse github posto meus projetos em meu repositorio de "Portifolio" e também alguns repositorios de cursos e aprendizados.
 
 <p align="left">
     <a href="https://github.com/LittleAnjel">
