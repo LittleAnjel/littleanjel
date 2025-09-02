@@ -18,6 +18,7 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/LittleAnjel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
+    </a>
    <a href="https://instagram.com/Kelve_kag">
         <img 
             alt="Instagram" 
