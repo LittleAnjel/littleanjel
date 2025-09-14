@@ -32,7 +32,7 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
+<!--<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -47,7 +47,8 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+/>/>-->
+
 <img 
     align="left" 
     alt="C#" 
@@ -80,7 +81,7 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>-->
+
 
 <img 
     align="left" 
@@ -90,6 +91,7 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+/>-->
 
 
 <br/>
