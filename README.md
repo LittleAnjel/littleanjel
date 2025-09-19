@@ -72,9 +72,8 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
     title="Asp.NE"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
- 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+ />
 
 <!--<img 
     align="left" 
